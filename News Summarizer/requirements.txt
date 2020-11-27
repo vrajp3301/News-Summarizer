@@ -1,0 +1,4 @@
+tkinter --> GUI
+nltk --> NLP
+textbolb --> Sentiment Analysis
+newspaper3k --> Parsing Articles
